@@ -1,0 +1,25 @@
+body {background: linear-gradient(135deg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+ font-family: tahoma;} 
+ .card {
+    background: #d643aad3;
+   width: 500px;
+    padding: 30px;
+   border-radius: 25px;
+    text-align: center;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);} 
+    #message {
+    font-size: 22px;
+    color: rgb(0, 0, 0);
+    min-height: 120px;} 
+    button {
+    background: #d0227c;
+    color: rgb(22, 17, 17);
+    border: rgb(28, 26, 26);
+    padding: 15px 25px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 18px;} 
